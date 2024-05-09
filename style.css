@@ -1,0 +1,210 @@
+body{
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  background: #e6e6e6;
+  margin: 0px 0px 20px 0px;
+}
+
+header{
+  background-color: #f7b600;
+  width: auto;
+  height: 180px;
+  margin-top: auto;
+}
+
+header div h1{
+  position: absolute;
+  left: 847px;
+  top: 11px;
+  height: 60px;
+  width: 100px;
+  color: #5d5a56;
+  font-size: 60px;
+  padding-left: 10px;
+}
+
+header div p{
+  position: absolute;
+  left: 950px;
+  top : -9px;
+  height: 60px;
+  width: 120px;
+  color: white;
+  font-size: 60px;
+}
+
+.menu{  
+  position: absolute;
+  left: 650px;
+  top : 138px;
+}
+
+header div a {
+  padding: 10px 20px;
+  text-decoration: none;
+  font-size: 20px;
+  color: white;
+  height: 20px;
+}
+
+header div a:hover{
+  color: #f7b600;
+  background-color: white;
+}
+
+.main1{
+  background-color: white;
+  position: relative;
+  left: 270px;
+  top: 20px;
+  width: 940px;
+  height: 700px;
+}
+
+.main2{
+  background-color: white;
+  position: relative;
+  left: 270px;
+  top: 40px;
+  width: 940px;
+  height: 700px;
+}
+
+.main3{
+  background-color: white;
+  position: absolute;
+  left: 1240px;
+  top: 200px;
+  width: 300px;
+  height: 230px;
+}
+
+.main4{
+  background-color: white;
+  position: absolute;
+  left: 1240px;
+  top: 450px;
+  width: 300px;
+  height: 230px;
+}
+
+h2{
+  color: #f7b600;
+  padding: 10px 10px 10px 20px;
+  font-weight: bold;
+  font-size: 30px;
+  position: relative;
+  bottom: 15px;
+}
+
+.datadopost{
+  position: relative;
+  bottom: 100px;
+  padding: 10px 10px 10px 20px;
+}
+
+.imagem1{
+  padding: 20px;
+  height: 500px;
+  position: absolute;
+  bottom: 100px;
+  width: 900px;
+}
+
+.texto{
+  padding: 10px 10px 10px 20px;
+  position: relative;
+  top: 350px;
+}
+
+.LeiaMais1{
+  color: #f7b600;
+  padding: 10px 10px 10px 20px;
+  position: absolute;
+  bottom: 0px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.LeiaMais2{
+  color: #f7b600;
+  padding: 10px 10px 10px 20px;
+  position: absolute;
+  bottom: 0px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.LeiaMais3{
+  color: #f7b600;
+  padding: 10px 10px 10px 20px;
+  position: absolute;
+  bottom: 110px;
+  right: 201px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+
+.paragrafodiv4{
+  font-weight: bolder;
+  background-color : #e6e6e6;
+  color: #5d5a56;
+  padding: 5px;
+  margin: 7px 7px;
+  font-size: 20px;
+}
+
+.texto1div4{
+  position: absolute;
+  bottom: 128px;
+  padding: 0px 10px;
+}
+
+.texto2div4{
+  position: absolute;
+  bottom: 20px;
+  padding: 0px 10px;
+}
+
+hr{
+  margin: 5px;
+  position: relative;
+  top: 55px;  
+}
+
+.Categorias{
+  font-weight: bolder;
+  font-size: 20px;
+  padding: 5px 10px;
+  display: block;
+  text-decoration: none;
+  color: #f7b600;
+}
+
+main div a:hover{
+  text-decoration: underline;
+}
+
+main div div a:hover{
+  text-decoration: underline;
+}
+
+.MenuCategorias{
+  position: absolute;
+  bottom: 13px;
+}
+
+.fotter{
+  border: 1px solid #f7b600;
+  text-align: center;
+  font-weight: bolder;
+  background-color:#f7b600;
+  padding: 20px;
+  margin: 20px;
+  font-size: 20px;
+  position: relative;
+  bottom: -35px;
+  left: 250px;
+  height: 20px;
+  width: 1220px;
+}
